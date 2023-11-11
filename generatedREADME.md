@@ -1,5 +1,5 @@
 # README Generator README.md
-  |[GitHub License](https://img.shield.io/badge/MIT=blue)
+  |[GitHub License](https://img.shield.io/badge/ISC=blue)
 
   ## Description
 
@@ -31,8 +31,8 @@
 
   ## Licensing
 
-  This project is licensed under the MIT license. [![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
-  This license link for this project is https://opensource.org/license/MIT/
+  This project is licensed under the ISC license. [![GitHub License](https://img.shields.io/badge/license-ISC-blue.svg)
+  This license link for this project is https://opensource.org/license/ISC/
 
   ## Contributing
 

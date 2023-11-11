@@ -21,7 +21,8 @@ Video submission:
 https://drive.google.com/file/d/1QzVPK_OZ2l8o2jX-Y17MH0GtWOy1LYpl/view
 
 ## LICENSING
-No licensing was used in order to create this product.
+This project is licensed under the ISC license. [![GitHub License](https://img.shields.io/badge/license-ISC-blue.svg)
+This license link for this project is https://opensource.org/license/ISC/
 
 ## QUESTIONS
 If you have any questions about this repository, feel free to open an issue or contact me directly at nfailor@gmail.com.
